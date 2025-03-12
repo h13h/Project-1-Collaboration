@@ -1,17 +1,3 @@
-/* ./public/styles.scss */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* Custom SCSS */
-body {
-  font-family: Arial, sans-serif;
-}
-
-header {
-  background-color: #1D4ED8;
-}
-
-footer {
-  background-color: #2563EB;
-}
