@@ -1,0 +1,10 @@
+/* ./public/styles.scss */
+/* Tailwind Directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom SCSS Styles */
+body {
+  font-family: Arial, sans-serif;
+}
