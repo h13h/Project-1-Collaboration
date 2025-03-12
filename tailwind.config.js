@@ -1,11 +1,10 @@
-// tailwind.config.js
 module.exports = {
   content: [
-    './views/**/*.ejs',  // Ensure EJS files are included
+    './views/**/*.ejs',
     './public/**/*.{html,js}',
   ],
   theme: {
     extend: {},
   },
   plugins: [],
-}
+};
